@@ -23,16 +23,6 @@ It replicates the layout and design of Instagram’s home feed, while also loadi
 - JavaScript (ES6+) – interactivity and state management  
 
 ---
-
-## Project Screenshot
-
-Here is a preview of the Instagram Home Page Clone:
-
-![Instagram Clone Screenshot](public/Screenshot-2025-08-25-211650.png)
-
-
----
-
 ## Sample JSON Data (db.json)
 ```json
 {
