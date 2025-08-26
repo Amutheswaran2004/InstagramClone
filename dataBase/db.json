@@ -1,0 +1,101 @@
+{
+  "list": [
+    {
+      "id": 1,
+      "username": "Amudesh",
+      "profilePic": "http://localhost:3000/assets/Suit-croped.jpg",
+      "imageUrl": "http://localhost:3000/assets/image.png",
+      "caption": "Enjoying the sunset 🌅",
+      "likes": 120,
+      "comments": [
+        { "user": "nivi", "text": "Wow, amazing view! 😍" },
+        { "user": "hari", "text": "Nature at its best!" }
+      ],
+      "timestamp": "2025-08-20T18:45:00Z"
+    },
+    {
+      "id": 2,
+      "username": "foodie_queen",
+      "profilePic": "https://randomuser.me/api/portraits/women/44.jpg",
+      "imageUrl": "https://picsum.photos/id/292/600/400",
+      "caption": "Homemade pasta 🍝✨",
+      "likes": 250,
+      "comments": [
+        { "user": "amudesh", "text": "Looks delicious 👌" },
+        { "user": "stark", "text": "Invite me next time! 😂" }
+      ],
+      "timestamp": "2025-08-21T12:10:00Z"
+    },
+    {
+      "id": 3,
+      "username": "travel_addict",
+      "profilePic": "https://randomuser.me/api/portraits/men/78.jpg",
+      "imageUrl": "https://picsum.photos/id/1043/600/400",
+      "caption": "Mountains are calling 🏔️❤️",
+      "likes": 300,
+      "comments": [
+        { "user": "explorer", "text": "Take me with you!" },
+        { "user": "nivi", "text": "Bucket list place for me ✈️" }
+      ],
+      "timestamp": "2025-08-22T09:00:00Z"
+    },
+    {
+      "id": 4,
+      "username": "fitness_pro",
+      "profilePic": "https://randomuser.me/api/portraits/men/12.jpg",
+      "imageUrl": "https://picsum.photos/id/237/600/400",
+      "caption": "Early morning workout 💪🔥",
+      "likes": 180,
+      "comments": [
+        { "user": "hari", "text": "Respect bro 👏" },
+        { "user": "stark", "text": "Motivated now! 🚴‍♂️" }
+      ],
+      "timestamp": "2025-08-23T06:30:00Z"
+    },
+    {
+      "id": 5,
+      "username": "art_soul",
+      "profilePic": "https://randomuser.me/api/portraits/women/19.jpg",
+      "imageUrl": "https://picsum.photos/id/1084/600/400",
+      "caption": "Lost in creativity 🎨✨",
+      "likes": 95,
+      "comments": [
+        { "user": "nivi", "text": "So beautiful ❤️" },
+        { "user": "amudesh", "text": "Your art is inspiring!" }
+      ],
+      "timestamp": "2025-08-24T14:20:00Z"
+    }
+  ],
+  "suggestions": [
+    {
+      "id": 1,
+      "username": "travel_addict",
+      "profilePic":  "https://randomuser.me/api/portraits/men/78.jpg",
+      "reason": "Follows you"
+    },
+    {
+      "id": 2,
+      "username": "foodie_queen",
+      "profilePic": "https://randomuser.me/api/portraits/women/44.jpg",
+      "reason": "New to Instagram"
+    },
+    {
+      "id": 3,
+      "username": "fitness_pro",
+      "profilePic": "https://randomuser.me/api/portraits/men/12.jpg",
+      "reason": "Popular"
+    },
+    {
+      "id": 4,
+      "username": "art_soul",
+      "profilePic": "https://randomuser.me/api/portraits/women/19.jpg",
+      "reason": "Recommended for you"
+    },
+    {
+      "id": 5,
+      "username": "tech_guy",
+      "profilePic": "https://randomuser.me/api/portraits/men/32.jpg",
+      "reason": "Follows similar accounts"
+    }
+  ]
+}
