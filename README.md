@@ -24,26 +24,12 @@ It replicates the layout and design of Instagram’s home feed, while also loadi
 
 ---
 
-## Project Structure
-```
+## Project Screenshot
 
-instagram-clone/
-│── public/
-│   └── index.html
-│── src/
-│   ├── components/
-│   │   ├── Navbar.jsx
-│   │   ├── Story.jsx
-│   │   ├── Post.jsx
-│   │   └── Sidebar.jsx
-│   ├── App.js
-│   ├── index.js
-│   └── App.css
-│── db.json          (JSON Server database)
-│── package.json
-│── README.md
+Here is a preview of the Instagram Home Page Clone:
 
-````
+![Instagram Clone Screenshot](public/Screenshot-2025-08-25-211650.png)
+
 
 ---
 
