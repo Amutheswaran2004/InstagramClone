@@ -129,7 +129,3 @@ This project is intended for educational purposes only and is not affiliated wit
 
 ```
 
-<<<<<<< HEAD
-
-=======
->>>>>>> 9bc5cc4 (Updates)
